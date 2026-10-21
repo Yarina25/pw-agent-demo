@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "startTime": "2026-10-21T07:11:43.976Z",
+    "duration": 450517.721,
+    "expected": 37,
+    "skipped": 1,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "total": 38,
+  "byStatus": {
+    "passed": 37,
+    "skipped": 1
+  },
+  "failed": [],
+  "skipped": [
+    " > dashboard.spec.ts > 质量概览 > 全局搜索可检索缺陷（已知缺陷：搜索无响应）"
+  ],
+  "slowest": [
+    " > dashboard.spec.ts > 质量概览 > 切换项目后徽标与执行记录联动 :: 39138ms",
+    " > dashboard.spec.ts > 质量概览 > 侧边导航可到达全部十个模块 :: 23707ms",
+    " > interview.spec.ts > 面试题库 > 关键词搜索命中与恢复 :: 18373ms",
+    " > navigation.spec.ts > 跨页面一致性 > 各模块异步加载占位最终收敛 :: 18112ms",
+    " > assistant.spec.ts > AI 助手 > 悬浮助手与助手页共享同一会话 :: 15383ms",
+    " > runs.spec.ts > 测试执行 > 按执行状态筛选 :: 15313ms",
+    " > requirements.spec.ts > 需求 & AI 生成 > AI 生成用例产出结构化用例矩阵 :: 14959ms",
+    " > cases.spec.ts > 用例库 > 按优先级与状态筛选，并展示空态 :: 14130ms"
+  ]
+}

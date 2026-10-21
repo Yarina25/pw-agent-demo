@@ -1,0 +1,66 @@
+{
+  "inputCount": 1,
+  "floatChain": [
+    {
+      "tag": "TEXTAREA",
+      "cls": "input max-h-28 flex-1 resize-none py-2.5",
+      "fixed": false
+    },
+    {
+      "tag": "DIV",
+      "cls": "flex items-end gap-2",
+      "fixed": false
+    },
+    {
+      "tag": "DIV",
+      "cls": "border-t border-line/70 p-3",
+      "fixed": false
+    },
+    {
+      "tag": "DIV",
+      "cls": "flex h-full flex-col",
+      "fixed": false
+    },
+    {
+      "tag": "DIV",
+      "cls": "fixed right-0 top-0 z-50 flex h-full w-[420px] flex-col border-l border-line/70 bg-panel/95 backdrop-blur transition-transform duration-300 ",
+      "fixed": true
+    },
+    {
+      "tag": "DIV",
+      "cls": "flex h-screen overflow-hidden",
+      "fixed": false
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "fixed": false
+    },
+    {
+      "tag": "BODY",
+      "cls": "",
+      "fixed": false
+    },
+    {
+      "tag": "HTML",
+      "cls": "",
+      "fixed": false
+    }
+  ],
+  "fixedCount": 1,
+  "fixedClasses": [
+    "fixed right-0 top-0 z-50 flex h-full w-[420px] flex-col border-l border-line/70 bg-panel/95 backdrop-blur transition-transform duration-300 translate-x-full"
+  ],
+  "afterNavFloatVisible": true,
+  "afterNavInMain": 0,
+  "afterNavInFixed": 1,
+  "assistantMainHasMsg": 1,
+  "assistantMainConvHead": " 生成」页一键入库。 TC-2130 TC-2131 TC-2132 06:58 自动化验证消息-1792565894501 06:58 我可以帮你： 1. 根据需求文档一键生成测试用例 2. 分析失败用例根因并给出修复建议 3. 汇总本轮回归的质量结论 请告诉我你要针对哪个需求或缺陷，我来帮你处理。 06:58 跨页消息-1792565903157 06:58 我可以帮你： 1. 根据需求文档一键生成测试用例 2. 分析失败用例根因并给出修复建议 3. 汇总本轮回归的质量结论 请告诉我你要针对哪个需求或缺陷，我来帮你处理。 06:58 跨页探针-1792566070810 07:01 我可以帮你： 1. 根据需求文档一键生成测试用例 2. 分析失败用例根因并给出修复建议 3. 汇总本轮回归的质量结论 请告诉我你要针对哪个需求或缺陷，我来帮你处理。 07:01 为订单部分退款生成边界用例 分析本次回归失败的根因 汇总本轮质量结论",
+  "candidates": {
+    "fixedZ50": 0,
+    "fixedZ40": 0,
+    "hasHeader": 1,
+    "hasHeaderAndTextarea": 1
+  },
+  "floatText": "回归的质量结论 请告诉我你要针对哪个需求或缺陷，我来帮你处理。 06:58 跨页消息-1792565903157 06:58 我可以帮你： 1. 根据需求文档一键生成测试用例 2. 分析失败用例根因并给出修复建议 3. 汇总本轮回归的质量结论 请告诉我你要针对哪个需求或缺陷，我来帮你处理。 06:58 跨页探针-1792566070810 15:01 我可以帮你： 1. 根据需求文档一键生成测试用例 2. 分析失败用例根因并给出修复建议 3. 汇总本轮回归的质量结论 请告诉我你要针对哪个需求或缺陷，我来帮你处理。 15:01 为订单部分退款生成边界用例 分析本次回归失败的根因 汇总本轮质量结论"
+}

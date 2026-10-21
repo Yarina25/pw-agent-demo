@@ -1,0 +1,9 @@
+﻿
+Running 4 tests using 1 worker
+
+  ✓  1 tests\assistant.spec.ts:10:7 › AI 助手 › 展示助手能力与本次上下文 (12.8s)
+  ✓  2 tests\assistant.spec.ts:32:7 › AI 助手 › 快捷提示生成结构化用例建议 (12.9s)
+  ✓  3 tests\assistant.spec.ts:44:7 › AI 助手 › 手动发送消息并获得回复 (9.9s)
+  ✓  4 tests\assistant.spec.ts:58:7 › AI 助手 › 悬浮助手与助手页共享同一会话 (41.0s)
+
+  4 passed (1.3m)

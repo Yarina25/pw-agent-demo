@@ -1,0 +1,153 @@
+{
+  "h1": [
+    "测试报告"
+  ],
+  "h2": [
+    "测试报告",
+    "质量报告 · 退款中心 · 部分退款专项",
+    "通过率趋势",
+    "结果构成",
+    "失败用例",
+    "关联缺陷",
+    "AI 改进建议"
+  ],
+  "buttons": [
+    {
+      "tag": "button",
+      "text": "",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "AI 助手",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "RUN-3080 高风险 退款中心 · 部分退款专项 2026-10-14 79%",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "RUN-3077 低风险 大促下单压测 5000TPS 2026-10-13 100%",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "导出报告",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "为订单部分退款生成边界用例",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "分析本次回归失败的根因",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "汇总本轮质量结论",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": true
+    }
+  ],
+  "inputs": [
+    {
+      "tag": "select",
+      "text": "电商交易中台 会员增长系统 AI 客服助手",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false,
+      "options": [
+        "电商交易中台",
+        "会员增长系统",
+        "AI 客服助手"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "placeholder": "搜索用例 / 缺陷 / 执行记录",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "textarea",
+      "text": "",
+      "placeholder": "输入需求或问题，Enter 发送，Shift+Enter 换行",
+      "type": "",
+      "href": "",
+      "disabled": false
+    }
+  ],
+  "links": [
+    "质量概览 -> /",
+    "需求 & AI 生成 -> /requirements",
+    "用例库 -> /cases",
+    "测试执行 -> /runs",
+    "测试报告 -> /reports",
+    "缺陷管理 -> /defects",
+    "AI 助手 -> /assistant",
+    "面试题库 -> /interview",
+    "知识库 -> /knowledge",
+    "设置 -> /settings",
+    "缺陷看板 -> /defects"
+  ],
+  "tables": [],
+  "dialogs": [],
+  "bodyText": "TestPilot AI 测试全流程平台 当前项目 电商交易中台 会员增长系统 AI 客服助手 质量概览 需求 & AI 生成 用例库 测试执行 测试报告 缺陷管理 AI 助手 面试题库 知识库 设置 丁 丁蕾 admin 测试报告 TRADE 多维度质量分析与 AI 结论汇总 预发布 STAGING AI 助手 测试报告 按执行记录生成 RUN-3080 高风险 退款中心 · 部分退款专项 2026-10-14 79% RUN-3077 低风险 大促下单压测 5000TPS 2026-10-13 100% 质量报告 · 退款中心 · 部分退款专项 RUN-3080 · 预发布 STAGING 高风险 导出报告 AI 质量结论 本次执行「退款中心 · 部分退款专项」共 14 条用例，通过率 79%，存在 3 条失败用例与 2 个关联缺陷。 用例总数 14 通过 11 失败 3 通过率 79% 耗时 1m 36s 通过率趋势 近 14 天基线对比 10-02 10-04 10-06 10-08 10-10 10-12 10-14 80% 85% 90% 95% 100% 结果构成 通过 / 失败 / 跳过 通过 11 · 79% 失败 3 · 21% 失败用例 共 3 条需关注 TC-2111 多路召回结果去重后重排序 [ERROR] 断言失败：期望 132.22，实际 132.02 TC-2112 低置信度问题兜底转人工 [ERROR] 断言失败：期望 132.22，实际 132.02 TC-2113 中文分词与英文混排问题召回 [ERROR] 断言失败：期望 132.22，实际 132.02 关联缺陷 共 2 个 缺陷看板 BUG-2201 严重 AI 定位：金额分摊使用 float 计算导致精度丢失，建议改用 Decimal 或分为单位整数运算。 BUG-2202 致命 AI 定位：接口缺少 requestId 幂等键校验，高并发下可能重复扣款，建议加分布式锁 + 唯一索引。 AI 改进建议 基于本轮执行与历史缺陷 补充边界与精度用例 建议增加以分为单位整数运算的断言，覆盖优惠券分摊场景。 加强幂等校验 对写接口统一补充 Idempotency-Key 校验与唯一索引。 TestPilot AI 助手 ● 在线 · gpt-4o 你好，我是 TestPilot 测试助手。我可以帮你： 1. 根据需求文档一键生成测试用例 2. 分析失败用例的根因并给出修复建议 3. 汇总本轮回归测试的质量结论 你可以先试试「为订单部分退款生成边界用例」。 09:10 针对 BUG-2201 的退款金额精度问题，帮我补充几条回归用例 09:13 已为「退款金额精度」生成 4 条回归用例： • TC-2130 满减券 5:4 分摊后部分退款，校验分为单位整数运算 • TC-2131 多商品多次退款，累计金额四舍五入误差为 0 • TC-2132 跨境币种（USD 两位小数）退款精度校验 • TC-2133 退款金额为 0 的边界（全额已退）拦截 建议优先执行 P0 的 TC-2130 / TC-2131，已自动关联 BUG-2201。 BUG-2201 TC-2130 TC-2131 09:14 为订单部分退款生成边界用例 分析本次回归失败的根因 汇总本轮质量结论 3",
+  "url": "https://utilize-subscription-paper-fare.trycloudflare.com/reports",
+  "note": ""
+}

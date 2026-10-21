@@ -1,0 +1,31 @@
+{
+  "mains": 1,
+  "h1Chain": [
+    "h1.text-[15px].font-semibold.text-white",
+    "div.flex.items-center.gap-2",
+    "div.min-w-0",
+    "header.sticky.top-0.z-30",
+    "div.flex.min-w-0.flex-1",
+    "div.flex.h-screen.overflow-hidden"
+  ],
+  "navChain": [
+    "nav.flex-1.space-y-0.5.overflow-y-auto",
+    "aside.flex.h-full.w-60",
+    "div.flex.h-screen.overflow-hidden",
+    "div#root",
+    "body",
+    "html"
+  ],
+  "textareas": [
+    {
+      "ph": "输入需求或问题，Enter 发送，Shift+Enter 换行",
+      "chain": [
+        "textarea.input.max-h-28.flex-1",
+        "div.flex.items-end.gap-2",
+        "div.border-t.border-line/70.p-3",
+        "div.flex.h-full.flex-col"
+      ]
+    }
+  ],
+  "testIds": []
+}

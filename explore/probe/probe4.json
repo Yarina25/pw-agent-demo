@@ -1,0 +1,13 @@
+{
+  "cases_total": 16,
+  "cases_after_type_safe": 2,
+  "cases_after_type_safe_titles": [
+    "TC-2120 支付回调签名篡改拦截 交易链路 安全 P0 已通过 人工 失败 ",
+    "TC-2104 越权退款他人订单被拦截 退款中心 安全 P0 已通过 AI · "
+  ],
+  "cases_search_tc2111": 0,
+  "interview_kw_huanjue": "题库总数 8 简单 0 中等 7 困难 1 全部分类 AI 测试基础 大模型测试 测试自动化 缺陷分析 测试数据 Agent 测试 RAG 测试 工具与 MCP LLM 评测 AI 编程 Agent 框架 全部难度 简单 中等 困难 筛选 IV-003 中等 大模型测试 如何对 LLM（大语言模型）进行质量评估？常见的评估指标有哪些？ LLM 评估指标 质量 58 IV-004 困难 大模型测试 什么是 LLM 的「幻觉」问题？在测试中如何检测和量化幻觉？ 幻觉 LLM 检测 67 IV-123 中等 Agent 测试 Agent 的「任务幻觉」是什么？如何避免没有执行工具却声称任务已经完成？ Agent 32 IV-124 中等 Agent 测试 大模型或 Agent 连接数据库时，如何防止越权、敏感数据泄漏和查询幻觉？ Agent 39 IV-132 中等 RAG 测试 大模型的 RAG 主要用来解决什么问题？ RAG 50 IV-147 中等 RAG 测试 如何规避 RAG 系统中大模型的幻觉？ RAG 20 IV-148 中等 RAG 测试 怎么量化你的 RAG 效果？ RAG 27 IV-182 中等 LLM 评测 大模型为什么会出现幻觉？怎么缓解？ LLM 40 共 8 条 · 第 1 / 1 页",
+  "interview_llm": "题库总数 23 简单 0 中等 23 困难 0 全部分类 AI 测试基础 大模型测试 测试自动化 缺陷分析 测试数据 Agent 测试 RAG 测试 工具与 MCP LLM 评测 AI 编程 Agent 框架 全部难度 简单 中等 困难 筛选 IV-175 中等 LLM 评测 为什么长上下文会出现 Lost in the Middle？上下文窗口越大越好吗？ LLM 36 IV-176 中等 LLM 评测 什么是 CoT？为啥效果好？它有什么缺点或局限性？ LLM 43 IV-177 中等 LLM 评测 大模型生成文本时的解码策略有哪些？贪心、Beam Search、采样分别什么时候用？ LLM 50 IV-178 中等 LLM 评测 大模型部署有哪些主流方案？vLLM、TGI、llama.cpp、SGLang 实际项目里怎么选？ LLM 12 IV-179 中等 LLM 评测 大模型的 ",
+  "interview_llm_simple": "题库总数 0 简单 0 中等 0 困难 0 全部分类 AI 测试基础 大模型测试 测试自动化 缺陷分析 测试数据 Agent 测试 RAG 测试 工具与 MCP LLM 评测 AI 编程 Agent 框架 全部难度 简单 中等 困难 筛选 暂无面试题 试试调整筛选条件",
+  "knowledge_text": "全部条目 5 链接收藏 2 知识文档 3 自定义文本 0 新增知识 链接收藏 自定义文本 上传文档 保存 全部类型 链接 文档 文本 导入面试题库 刷新 暂无知识条目 从上方添加链接、上传文档或记录自定义文本"
+}

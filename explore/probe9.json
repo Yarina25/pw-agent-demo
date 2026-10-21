@@ -1,0 +1,83 @@
+{
+  "listRows": 9,
+  "firstRowHtml": "<td class=\"td max-w-[380px]\"><div class=\"mono text-[11px] text-slate-500\">BUG-2212</div><div class=\"truncate font-medium text-slate-200\">订单状态推送偶发延迟超过 10s</div></td><td class=\"td\"><span class=\"chip bg-sky-500/12 text-sky-300 border-sky-500/30 \">一般</span></td><td class=\"td\"><span class=\"chip bg-amber-500/12 text-amber-300 border-amber-500/30 \">P1</span></td><td class=\"td\"><span class=\"chip bg-rose-500/12 text-rose-300 border-rose-500/30 \">待处理</span></td><td class=\"td text-slate-400\">消息推送</td><td class=\"td text-slate-300\">苏晚</td><td class=\"td whitespace-nowrap text-[12px] text-slate-400\">2026-10-",
+  "detailHeader": "ok",
+  "panelChain": [
+    {
+      "tag": "H3",
+      "cls": "text-sm font-semibold text-white",
+      "role": null,
+      "w": 142
+    },
+    {
+      "tag": "DIV",
+      "cls": "flex items-center justify-between border-b border-line/70 px-5 py-3.5",
+      "role": null,
+      "w": 670
+    },
+    {
+      "tag": "DIV",
+      "cls": "card animate-fade-up w-full max-w-2xl mt-8 overflow-hidden",
+      "role": null,
+      "w": 672
+    },
+    {
+      "tag": "DIV",
+      "cls": "fixed inset-0 z-50 flex items-start justify-center overflow-y-auto bg-black/60 p-6 backdrop-blur-sm",
+      "role": null,
+      "w": 1152
+    },
+    {
+      "tag": "DIV",
+      "cls": "animate-fade-up space-y-6",
+      "role": null,
+      "w": 1152
+    }
+  ],
+  "panelText": "缺陷总数 9 当前项目累计 未关闭 7 待处理 + 处理中 致命缺陷 3 需发布前拦截 修复率 22% 已修复及以上 全部级别 致命 严重 一般 轻微 全部模块 消息推送 交易链路 购物车 收银台 退款中心 看板视图 列表视图 缺陷 级别 优先级 状态 模块 负责人 更新时间 BUG-2212 订单状态推送偶发延迟超过 10s 一般 P1 待处理 消息推送 苏晚 2026-10-13 10:12 BUG-2210 大促压测出现超卖 2 件 严重 P0 处理中 交易链路 丁蕾 2026-10-14 08:45 BUG-2209 支付回调验签算法未覆盖时间戳字段 致命 P0 待处理 交易链路 陈亦 2026-10-14 09:24 BUG-2208 跨店结算优惠券展示金额与实扣不一致 轻微 P3 已关闭 购物车 苏晚 2026-10-12 10:00 BUG-2207 收银台支付接口 P99 达 1.2s 超阈值 严重 P1 处理中 收银台 丁蕾 2026-10-14 09:30 BUG-2206 断线重连补推消息存在重复 一般 P1 待处理 消息推送 陈亦 2026-10-13 15:02 BUG-2203 越权退款他人订单返回 200 而非 403 致命 P0 已修复 退款中心 陈亦 2026-10-14 07:40 BUG-2202 重复提交退款请求未做幂等，产生 2 条退款单 致命 P0 待处理 退款中心 苏晚 2026-10-14 09:01 BUG-2201 优惠券分摊后部分退款金额误差 0.2 元 严重 P0 处理中 退款中心 丁蕾 2026-10-14 10:10 缺陷详情 · BUG-2209 ✕ 支付回调验签算法未覆盖时间戳字段 致命 P0 待处理 复现率 100% 模块 交易链路 负责人 陈亦 关联用例 TC-2120 关联执行 RUN-3081 AI 定",
+  "moduleMatches": 4,
+  "moduleMatchTags": [
+    {
+      "tag": "OPTION",
+      "hidden": true,
+      "parent": "SELECT"
+    },
+    {
+      "tag": "TD",
+      "hidden": false,
+      "parent": "TR"
+    },
+    {
+      "tag": "TD",
+      "hidden": false,
+      "parent": "TR"
+    },
+    {
+      "tag": "DIV",
+      "hidden": false,
+      "parent": "DIV"
+    }
+  ],
+  "reqDefaultDetail": "需求总数 4 本迭代待测需求 AI 已分析 4 100% 完成解析 累计生成用例 22 含 AI 与人工 平均覆盖率 46% 需求 → 用例映射 需求列表 选择需求后由 AI 生成测试用例 REQ-1046 P2 2026-10-11 购物车跨店铺合并结算 购物车 · 0 条用例 已分析 REQ-1043 P0 2026-10-09 新增「先享后付」支付方式 收银台 · 0 条用例 已分析 REQ-1042 P0 2026-10-08 支持订单部分退款与差异金额核算 退款中心 · 14 条用例 已分析 REQ-1047 P2 2026-10-06 订单状态变更实时推送 消息推送 · 8 条用例 已分析 REQ-1046 P2 购物车 购物车跨店铺合并结算 来源：Jira / 交易中台 PRD v2.4 · 负责人 丁蕾 AI 生成用例 多店铺商品可在购物车合并结算，需按店铺拆分订单但共用一",
+  "reqButtonCount": 4,
+  "reqAfterClick": "需求总数 4 本迭代待测需求 AI 已分析 4 100% 完成解析 累计生成用例 22 含 AI 与人工 平均覆盖率 46% 需求 → 用例映射 需求列表 选择需求后由 AI 生成测试用例 REQ-1046 P2 2026-10-11 购物车跨店铺合并结算 购物车 · 0 条用例 已分析 REQ-1043 P0 2026-10-09 新增「先享后付」支付方式 收银台 · 0 条用例 已分析 REQ-1042 P0 2026-10-08 支持订单部分退款与差异金额核算 退款中心 · 14 条用例 已分析 REQ-1047 P2 2026-10-06 订单状态变更实时推送 消息推送 · 8 条用例 已分析 REQ-1042 P0 退款中心 支持订单部分退款与差异金额核算 来源：Jira / 交易中台 PRD v2.3 · 负责人 丁蕾 AI 生成用例 用户可对订单中的部分商品发起退款，系统需按商品实付金额、优惠券分摊比例核算退款金额；支持多次部分退款，累计退款金额不得超过订单实付金额。 用例覆盖 14 条 覆盖率 92% 生成状态 AI 已完成分析 尚未生成用例 点击「AI 生成用例」，TestPilot 将解析需求并产出覆盖主流程、边界、并发、权限与异常的用例矩阵。",
+  "confidenceCount": 0,
+  "confidenceTexts": [],
+  "reqReenter": "需求总数 4 本迭代待测需求 AI 已分析 4 100% 完成解析 累计生成用例 22 含 AI 与人工 平均覆盖率 46% 需求 → 用例映射 需求列表 选择需求后由 AI 生成测试用例 REQ-1046 P2 2026-10-11 购物车跨店铺合并结算 购物车 · 0 条用例 已分析 REQ-1043 P0 2026-10-09 新增「先享后付」支付方式 收银台 · 0 条用例 已分析 REQ-1042 P0 2026-10-08 支持订单部分退款与差异金额核算 退款中心 · 14 条用例 已分析 REQ-1047 P2 2026-10-06 订单状态变更实时推送 消息推送 · 8 条用例",
+  "assistantTextareas": [
+    {
+      "inMain": true,
+      "placeholder": "输入需求或问题，Enter 发送，Shift+Enter 换行",
+      "parentCls": "border-t border-line/70 p-4",
+      "formCls": ""
+    },
+    {
+      "inMain": false,
+      "placeholder": "输入需求或问题，Enter 发送，Shift+Enter 换行",
+      "parentCls": "border-t border-line/70 p-3",
+      "formCls": ""
+    }
+  ],
+  "casesStatTextContent": "用例总数16当前项目用例库AI 生成1169% 占比可自动化1275% 占比最近通过12通过率 75%全部类型功能接口UI性能安全兼容性全部优先级P0P1P2P3全部状态草稿评审中已通过已废弃 AI 生成用例用例模块类型优先级状态来源最近结果最近执行TC-2121退款到账后优惠券返还规则退款中心功能P2评审中 AI · 75%通过2026-10-11 12:27TC-2120支付回调签名篡改拦截交",
+  "casesStatInnerText": "用例总数 16 当前项目用例库 AI 生成 11 69% 占比 可自动化 12 75% 占比 最近通过 12 通过率 75% 全部类型 功能 接口 UI 性能 安全 兼容性 全部优先级 P0 P1 P2 P3 全部状态 草稿 评审中 已通过 已废弃 AI 生成用例 用例 模块 类型 优先级 状态 来源 最近结果 最近执行 TC-2121 退款到账后优惠券返还规则 退款中心 功能 P2 评审中 AI"
+}

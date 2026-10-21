@@ -1,0 +1,7 @@
+locator.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('link', { name: /查看执行明细/ }).first()[22m
+
+    at D:\projects\pw-agent-demo\explore\flows.mjs:123:60
+    at async step (D:\projects\pw-agent-demo\explore\flows.mjs:71:5)
+    at async file:///D:/projects/pw-agent-demo/explore/flows.mjs:115:1

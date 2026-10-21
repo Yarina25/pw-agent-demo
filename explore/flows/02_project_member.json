@@ -1,0 +1,134 @@
+{
+  "h1": [
+    "质量概览"
+  ],
+  "h2": [
+    "通过率与执行量趋势",
+    "缺陷开闭趋势",
+    "用例类型分布",
+    "缺陷级别分布",
+    "进行中的执行",
+    "最近执行记录",
+    "高风险缺陷"
+  ],
+  "buttons": [
+    {
+      "tag": "button",
+      "text": "",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "AI 助手",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "为订单部分退款生成边界用例",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "分析本次回归失败的根因",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "汇总本轮质量结论",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": true
+    }
+  ],
+  "inputs": [
+    {
+      "tag": "select",
+      "text": "电商交易中台 会员增长系统 AI 客服助手",
+      "placeholder": "",
+      "type": "",
+      "href": "",
+      "disabled": false,
+      "options": [
+        "电商交易中台",
+        "会员增长系统",
+        "AI 客服助手"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "placeholder": "搜索用例 / 缺陷 / 执行记录",
+      "type": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "textarea",
+      "text": "",
+      "placeholder": "输入需求或问题，Enter 发送，Shift+Enter 换行",
+      "type": "",
+      "href": "",
+      "disabled": false
+    }
+  ],
+  "links": [
+    "质量概览 -> /",
+    "需求 & AI 生成 -> /requirements",
+    "用例库 -> /cases",
+    "测试执行 -> /runs",
+    "测试报告 -> /reports",
+    "缺陷管理 -> /defects",
+    "AI 助手 -> /assistant",
+    "面试题库 -> /interview",
+    "知识库 -> /knowledge",
+    "设置 -> /settings",
+    "全部 -> /runs",
+    "查看全部 -> /runs",
+    "会员等级升降级回归 -> /runs/RUN-3079",
+    "缺陷看板 -> /defects"
+  ],
+  "tables": [
+    "执行 环境 结果 通过率 耗时 会员等级升降级回归 RUN-3079 测试环境 TEST 已通过 100%11/11 54.0s"
+  ],
+  "dialogs": [],
+  "bodyText": "TestPilot AI 测试全流程平台 当前项目 电商交易中台 会员增长系统 AI 客服助手 质量概览 需求 & AI 生成 用例库 测试执行 测试报告 缺陷管理 AI 助手 面试题库 知识库 设置 丁 丁蕾 admin 质量概览 GROW 全流程质量指标与实时执行态势 预发布 STAGING AI 助手 用例总数 388 AI 生成 274 条 平均覆盖率 91.4% 需求 → 用例映射 自动化率 68.3% 可自动执行用例占比 近 14 天通过率 94.2% 执行中 1 轮 未关闭缺陷 7 致命 3 个 AI 节省工时 126h 近 30 天累计 通过率与执行量趋势 近 14 天回归执行态势 10-01 10-02 10-03 10-04 10-05 10-06 10-07 10-08 10-09 10-10 10-11 10-12 10-13 10-14 80% 85% 90% 95% 100% 0 95 190 285 380 缺陷开闭趋势 每日新增 vs 关闭 10-02 10-04 10-06 10-08 10-10 10-12 10-14 0 3 6 9 12 用例类型分布 按测试类型统计 功能 42% 接口 28% UI 16% 性能 9% 安全 7% 兼容性 5% 缺陷级别分布 当前未关闭缺陷 致命 3 个 严重 4 个 一般 3 个 轻微 2 个 进行中的执行 实时任务 全部 AI Agent 已就绪，可发起新一轮回归 最近执行记录 近 6 次测试执行 查看全部 执行 环境 结果 通过率 耗时 会员等级升降级回归 RUN-3079 测试环境 TEST 已通过 100%11/11 54.0s 高风险缺陷 需优先处理 缺陷看板 TestPilot AI 助手 ● 在线 · gpt-4o 你好，我是 TestPilot 测试助手。我可以帮你： 1. 根据需求文档一键生成测试用例 2. 分析失败用例的根因并给出修复建议 3. 汇总本轮回归测试的质量结论 你可以先试试「为订单部分退款生成边界用例」。 13:25 为订单部分退款生成边界用例 分析本次回归失败的根因 汇总本轮质量结论 3",
+  "url": "https://utilize-subscription-paper-fare.trycloudflare.com/",
+  "note": ""
+}

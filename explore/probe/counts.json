@@ -1,0 +1,60 @@
+{
+  "cases": {
+    "total": "16",
+    "type_安全": 16,
+    "type_功能": 16,
+    "type_接口": 16,
+    "type_UI": 16,
+    "type_性能": 16,
+    "type_兼容性": 16,
+    "prio_P0": 16,
+    "prio_P1": 16,
+    "prio_P2": 16,
+    "prio_P3": 16,
+    "status_草稿": 16,
+    "status_评审中": 16,
+    "status_已通过": 16,
+    "status_已废弃": 16,
+    "search_refund": 16,
+    "search_none_text": "用例总数 16 当前项目用例库 AI 生成 11 69% 占比 可自动化 12 75% 占比 最近通过 12 通过率 75% 全部类型 功能 接口 UI 性能 安全 兼容性 全部优先级 P0 P1 P2 P3 全部状态 草稿 评审中 已通过 已废弃 AI 生成用例 用例 模块 类型 优先级 状态 来源 最近结果 最近执"
+  },
+  "defects": {
+    "total": 9,
+    "module_退款中心": 3,
+    "module_消息推送": 2,
+    "module_交易链路": 2,
+    "module_收银台": 1,
+    "module_购物车": 1,
+    "level_致命": 3,
+    "level_严重": 3,
+    "level_一般": 2,
+    "level_轻微": 1,
+    "search_bug": 1
+  },
+  "runs": {
+    "全部": 4,
+    "执行中": 1,
+    "存在失败": 1,
+    "已通过": 1
+  },
+  "knowledge": {
+    "链接": "2",
+    "文档": "3",
+    "文本": null
+  },
+  "interview": {
+    "kw_Agent": null,
+    "empty_Agent": false,
+    "kw_幻觉": null,
+    "empty_幻觉": false,
+    "kw_不存在的关键词XYZ": null,
+    "empty_不存在的关键词XYZ": false,
+    "page2_first": "筛选",
+    "category_llm": null
+  },
+  "assistant": {
+    "replied": true,
+    "tail": "AI 测试助手 对话式完成测试设计与分析 TestPilot Agent ● 在线 · gpt-4o TRADE 能做什么 覆盖测试全流程 用例设计 按需求生成主流程、边界、并发、权限、异常用例 缺陷分析 自动定级、定位根因并给出修复建议 质量总结 汇总执行结果，评估发布风险并输出结论 脚本生成 将用例转换为可执行的自动化脚本草稿 本次上下文 助手可见的项目信息 需求 4 条 · 已分析 4 条 ",
+    "messages": null
+  }
+}

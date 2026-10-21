@@ -1,0 +1,466 @@
+{
+  "title": "ShortLink - 企业级短链接生成平台 | 稳定合规 · 安全跳转 · 防封防劫持",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "企业级 短链接生成平台",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h2",
+      "text": "产品 矩阵",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "短链接生成器",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "批量创建",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "自定义后缀 & 域名",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "专业数据分析",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "开放 API 对接",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "防刷量防劫持",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h2",
+      "text": "应用 场景",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "短信营销 · 邮件短链",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "电商运营 · 商品店铺推广",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "社群运营 · 活动营销",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "自媒体推广 · 作品分发",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h2",
+      "text": "极速、安全、稳定 是我们最重要的承诺",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "毫秒级生成",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "安全可靠",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "全平台可用",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "全球加速",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "防流量劫持",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h3",
+      "text": "专属客户服务",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "h2",
+      "text": "开启免费试用",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    }
+  ],
+  "buttons": [
+    {
+      "tag": "button",
+      "text": "首页",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "产品与服务",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "价格",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "开放API",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "资讯中心",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "客户案例",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "二维码工具 HOT",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "活码工具 NEW",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "个人中心",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "登录",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "免费注册",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "立即生成",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "text": "立即创建短链接",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    }
+  ],
+  "inputs": [
+    {
+      "tag": "input",
+      "text": "",
+      "type": "",
+      "placeholder": "粘贴您的长链接（支持 http 及 https），立即获取可追踪的短链接",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false
+    },
+    {
+      "tag": "select",
+      "text": "默认（s6.ink） s6.ink 5ml.cn s6.ink",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "",
+      "disabled": false,
+      "options": [
+        "默认（s6.ink）",
+        "s6.ink",
+        "5ml.cn",
+        "s6.ink"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "tag": "a",
+      "text": "ShortLink",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "javascript:void(0)",
+      "disabled": false
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "javascript:void(0)",
+      "disabled": false
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "javascript:void(0)",
+      "disabled": false
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "javascript:void(0)",
+      "disabled": false
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "javascript:void(0)",
+      "disabled": false
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "javascript:void(0)",
+      "disabled": false
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "javascript:void(0)",
+      "disabled": false
+    },
+    {
+      "tag": "a",
+      "text": "京ICP备14060480号-7",
+      "type": "",
+      "placeholder": "",
+      "ariaLabel": "",
+      "testid": "",
+      "href": "https://beian.miit.gov.cn/",
+      "disabled": false
+    }
+  ],
+  "tableText": [
+    "公司名称 纳税人号 开票金额 发票类型 申请时间 寄送方式 状态 操作 加载中...",
+    "备案服务商 记录类型 主机记录 记录值",
+    "ID 类型 标题 状态 管理员回复 提交时间 暂无记录",
+    "访问时间 短码 标题 设备 / 系统 地区 访客类型 访问来源 IP(哈希) 暂无数据"
+  ],
+  "bodyText": "ShortLink 首页 产品与服务 价格 开放API 资讯中心 客户案例 二维码工具 HOT 活码工具 NEW 个人中心 登录 免费注册 稳定合规 · 安全跳转 · 防封防劫持 企业级 短链接生成平台 日均处理千万级访问 缩短网址、批量处理、自定义后缀、专属域名、专业数据分析，安全稳定无广告 默认（s6.ink） s6.ink 5ml.cn s6.ink 立即生成 无需注册，立即可用 · 支持自定义后缀、密码访问、过期时间、点击上限 120 累计生成短链接 3068 累计访问次数 5.6ms 平均响应时间 99.99% 服务可用性 产品 矩阵 从单个短链到企业级 API 对接，覆盖完整短链接业务场景 短链接生成器 智能链接缩短与追踪 将冗长链接转为简洁短链，支持多渠道参数追踪与深度访问分析，提升推广转化率 立即使用 → 批量创建 一次处理 50 条链接 多行粘贴长链接，一键批量生成短链，适合短信营销、电商上架等高频场景 立即使用 → 自定义后缀 & 域名 品牌专属短链 自定义短链后缀（如 my-brand），绑定专属域名，提升品牌辨识度与用户信任 立即使用 → 专业数据分析 可视化访问追踪 实时统计点击量、独立访客、24 小时趋势、设备/浏览器/操作系统分布，来源 Top 榜 查看详情 → 开放 API 对接 支持二次开发 提供 RESTful API，支持创建、批量、查询、删除，签发独立密钥，稳定高并发 查看文档 → 防刷量防劫持 企业级安全保障 SHA-256 IP 哈希防刷、X-Frame-Options 防嵌套、HSTS 强制 HTTPS、301 永久重定向 立即使用 → 应用 场景 覆盖短信、电商、社群、自媒体、投放、私域等主流推广场景 短信营销 · 邮件短链 在短信有限字符内嵌入可追踪短链，降低推广成本同时实时监控点击效果 多台服务器保障全国各地极速跳转访问 稳定高并发，API 支持二次开发 精准统计点击量，识别高响应时段，优化发送时间 支持自有域名、自定义后缀，助力企业品牌营销 电商运营 · 商品店铺推广 将淘宝、京东、拼多多、亚马逊等电商链接生成短链接，提升推广效果 全球 CDN 加速，国内国外极速访问 独立统计渠道数据，直观对比营销效果 深度分析访问用户地域、设备分布，优化策略 支持批量创建、API 对接，满足大企业推广需求 社群运营 · 活动营销 将直播、文章、营销、抽奖活动、招聘等长链接转为短链社群推广 短链支持全域应用打开，微信社群、媒体平台畅通 链接分组，实现高效复用和管理 精准统计接口点击量，生成可视化分布图表 深度分析用户地域、设备，优化推广策略 自媒体推广 · 作品分发 将视频长链接、文章链接等转为短链在媒体/留言/消息推广，统计阅读量 短链推广更美观，方便传播与记忆，提高点击率 合规短链，微信、微博、抖音、快手全域可打开 分渠道投放不同链接，轻松实现 AB 测试对比 深度分析访问用户地域、设备分布 极速、安全、稳定 是我们最重要的承诺 专业技术团队全程护航 毫秒级生成 API 响应 < 50ms，批量生成万级链接仅需 1 秒，创建即用 安全可靠 企业级安全保障，数据加密存储，保护用户隐私 全平台可用 微信 / APP / 浏览器 / 短信全平台兼容，无广告干扰 全球加速 CDN 全球节点，确保世界各地访问速度稳定 防流量劫持 实时识别异常流量，防假量与流量劫持，IP 限频防刷 专属客户服务 7×24h 专业售后，全方面业务支撑，支持定制化 开启免费试用 无需注册，立即创建你的第一个短链接 立即创建短链接 ShortLink 企业级短链接生成平台 · 稳定合规 · 安全跳转 · 防封防劫持 日均处理千万级访问，毫秒级响应，99.99% 服务可用性 产品 创建链接 批量处理 数据分析 API 对接 场景 短信营销 电商运营 社群推广 自媒体 支持 API 文档 我的链接 使用帮助 联系我们 © 2026 ShortLink. All rights reserved. · 京ICP备14060480号-7",
+  "route": "/runs",
+  "url": "https://s6.ink/home"
+}

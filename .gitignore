@@ -1,0 +1,12 @@
+# 依赖
+node_modules/
+
+# Playwright 运行产物
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# 日志与临时文件
+*.log
+.DS_Store

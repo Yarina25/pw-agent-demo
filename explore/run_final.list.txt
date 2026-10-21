@@ -1,0 +1,49 @@
+﻿
+Running 38 tests using 1 worker
+
+  ✓   1 tests\assistant.spec.ts:10:7 › AI 助手 › 展示助手能力与本次上下文 (9.6s)
+  ✓   2 tests\assistant.spec.ts:32:7 › AI 助手 › 快捷提示生成结构化用例建议 (11.1s)
+  ✓   3 tests\assistant.spec.ts:44:7 › AI 助手 › 手动发送消息并获得回复 (13.9s)
+  ✓   4 tests\assistant.spec.ts:58:7 › AI 助手 › 悬浮助手与助手页共享同一会话 (15.4s)
+  ✓   5 tests\cases.spec.ts:15:7 › 用例库 › 展示统计与十六条用例 (7.8s)
+  ✓   6 tests\cases.spec.ts:36:7 › 用例库 › 按类型筛选安全用例 (11.6s)
+  ✓   7 tests\cases.spec.ts:50:7 › 用例库 › 按优先级与状态筛选，并展示空态 (14.1s)
+  ✓   8 tests\cases.spec.ts:71:7 › 用例库 › 关键词搜索命中与未命中 (11.5s)
+  ✓   9 tests\dashboard.spec.ts:9:7 › 质量概览 › 首屏展示核心质量指标与最近执行记录 (8.3s)
+  ✓  10 tests\dashboard.spec.ts:54:7 › 质量概览 › 侧边导航可到达全部十个模块 (23.7s)
+  ✓  11 tests\dashboard.spec.ts:76:7 › 质量概览 › 切换项目后徽标与执行记录联动 (39.1s)
+  -  12 tests\dashboard.spec.ts:93:8 › 质量概览 › 全局搜索可检索缺陷（已知缺陷：搜索无响应）
+  ✓  13 tests\defects.spec.ts:19:7 › 缺陷管理 › 看板统计、分列与缺陷详情 (11.7s)
+  ✓  14 tests\defects.spec.ts:59:7 › 缺陷管理 › 按级别与模块筛选 (7.8s)
+  ✓  15 tests\defects.spec.ts:89:7 › 缺陷管理 › 列表视图搜索并打开缺陷详情 (9.7s)
+  ✓  16 tests\interview.spec.ts:15:7 › 面试题库 › 展示题库统计与默认列表 (9.8s)
+  ✓  17 tests\interview.spec.ts:32:7 › 面试题库 › 分页切换到第二页 (13.8s)
+  ✓  18 tests\interview.spec.ts:41:7 › 面试题库 › 关键词搜索命中与恢复 (18.4s)
+  ✓  19 tests\interview.spec.ts:56:7 › 面试题库 › 分类筛选与组合筛选空态 (11.6s)
+  ✓  20 tests\knowledge.spec.ts:13:7 › 知识库 › 展示知识库统计与全部条目 (13.5s)
+  ✓  21 tests\knowledge.spec.ts:28:7 › 知识库 › 按类型筛选并展示空态 (9.2s)
+  ✓  22 tests\knowledge.spec.ts:47:7 › 知识库 › 关键词搜索命中与空态 (8.2s)
+  ✓  23 tests\knowledge.spec.ts:63:7 › 知识库 › 新增知识表单包含链接收藏字段 (9.5s)
+  ✓  24 tests\navigation.spec.ts:5:7 › 跨页面一致性 › 各模块异步加载占位最终收敛 (18.1s)
+  ✓  25 tests\reports.spec.ts:10:7 › 测试报告 › 报告列表与默认详情 (8.2s)
+  ✓  26 tests\reports.spec.ts:42:7 › 测试报告 › 切换到满分报告 (14.0s)
+  ✓  27 tests\reports.spec.ts:57:7 › 测试报告 › 导出报告触发文件下载 (11.4s)
+  ✓  28 tests\requirements.spec.ts:10:7 › 需求 & AI 生成 › 需求列表与详情面板联动 (10.1s)
+  ✓  29 tests\requirements.spec.ts:37:7 › 需求 & AI 生成 › AI 生成用例产出结构化用例矩阵 (15.0s)
+  ✓  30 tests\requirements.spec.ts:69:7 › 需求 & AI 生成 › 需求详情展示来源、负责人与生成状态 (8.8s)
+  ✓  31 tests\runs.spec.ts:15:7 › 测试执行 › 展示执行统计与四条执行记录 (8.6s)
+  ✓  32 tests\runs.spec.ts:32:7 › 测试执行 › 按执行状态筛选 (15.3s)
+  ✓  33 tests\runs.spec.ts:51:7 › 测试执行 › 查看执行明细与失败用例证据 (8.5s)
+  ✓  34 tests\runs.spec.ts:81:7 › 测试执行 › 新建执行弹窗字段完整且可取消 (11.9s)
+  ✓  35 tests\seed.spec.ts:11:5 › seed (3.3s)
+  ✓  36 tests\settings.spec.ts:10:7 › 设置 › 展示 AI Agent 配置表 (6.8s)
+  ✓  37 tests\settings.spec.ts:37:7 › 设置 › 展示模型服务与执行配置 (7.9s)
+  ✓  38 tests\settings.spec.ts:77:7 › 设置 › 保存配置并刷新后保持 (11.8s)
+
+  1 skipped
+  37 passed (7.5m)
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m

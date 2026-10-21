@@ -1,0 +1,122 @@
+{
+  "质量概览": {
+    "url": "https://utilize-subscription-paper-fare.trycloudflare.com/",
+    "mainCount": 1,
+    "mainLen": 1009,
+    "head": "用例总数 388 AI 生成 274 条 平均覆盖率 91.4% 需求 → 用例映射 自动化率 68.3% 可自动执行用例占比 近 14 天通过率 94.2% 执行中 1 轮 未关闭缺陷 7 致命 3 个 AI 节省工时 126h 近 30 天累计 通过率与执行量趋势 近 14 天回归执行态势 10-01 10-02 ",
+    "h1": [
+      "质量概览"
+    ],
+    "comboboxes": 1,
+    "mainSelects": 0,
+    "mainRows": 4
+  },
+  "需求 & AI 生成": {
+    "url": "https://utilize-subscription-paper-fare.trycloudflare.com/requirements",
+    "mainCount": 1,
+    "mainLen": 519,
+    "head": "需求总数 4 本迭代待测需求 AI 已分析 4 100% 完成解析 累计生成用例 22 含 AI 与人工 平均覆盖率 46% 需求 → 用例映射 需求列表 选择需求后由 AI 生成测试用例 REQ-1046 P2 2026-10-11 购物车跨店铺合并结算 购物车 · 0 条用例 已分析 REQ-1043 P0 202",
+    "h1": [
+      "需求 & AI 生成"
+    ],
+    "comboboxes": 1,
+    "mainSelects": 0,
+    "mainRows": 0
+  },
+  "用例库": {
+    "url": "https://utilize-subscription-paper-fare.trycloudflare.com/cases",
+    "mainCount": 1,
+    "mainLen": 1296,
+    "head": "用例总数 16 当前项目用例库 AI 生成 11 69% 占比 可自动化 12 75% 占比 最近通过 12 通过率 75% 全部类型 功能 接口 UI 性能 安全 兼容性 全部优先级 P0 P1 P2 P3 全部状态 草稿 评审中 已通过 已废弃 AI 生成用例 用例 模块 类型 优先级 状态 来源 最近结果 最近执",
+    "h1": [
+      "用例库"
+    ],
+    "comboboxes": 4,
+    "mainSelects": 3,
+    "mainRows": 16
+  },
+  "测试执行": {
+    "url": "https://utilize-subscription-paper-fare.trycloudflare.com/runs",
+    "mainCount": 1,
+    "mainLen": 577,
+    "head": "执行中 1 AI Agent 实时调度 今日执行 0 近 24 小时 平均通过率 73% 基于 4 次执行 待处理缺陷 4 由失败用例自动生成 测试执行记录 点击查看执行明细、实时日志与用例结果 全部 执行中 存在失败 已通过 刷新 新建执行 RUN-3081 预发布 STAGING 交易中台 · 全量回归 执行中 A",
+    "h1": [
+      "测试执行"
+    ],
+    "comboboxes": 1,
+    "mainSelects": 0,
+    "mainRows": 0
+  },
+  "测试报告": {
+    "url": "https://utilize-subscription-paper-fare.trycloudflare.com/reports",
+    "mainCount": 1,
+    "mainLen": 831,
+    "head": "测试报告 按执行记录生成 RUN-3080 高风险 退款中心 · 部分退款专项 2026-10-14 79% RUN-3077 低风险 大促下单压测 5000TPS 2026-10-13 100% 质量报告 · 退款中心 · 部分退款专项 RUN-3080 · 预发布 STAGING 高风险 导出报告 AI 质量结论 ",
+    "h1": [
+      "测试报告"
+    ],
+    "comboboxes": 1,
+    "mainSelects": 0,
+    "mainRows": 0
+  },
+  "缺陷管理": {
+    "url": "https://utilize-subscription-paper-fare.trycloudflare.com/defects",
+    "mainCount": 1,
+    "mainLen": 567,
+    "head": "缺陷总数 9 当前项目累计 未关闭 7 待处理 + 处理中 致命缺陷 3 需发布前拦截 修复率 22% 已修复及以上 全部级别 致命 严重 一般 轻微 全部模块 消息推送 交易链路 购物车 收银台 退款中心 看板视图 列表视图 待处理 4 BUG-2212 一般 P1 订单状态推送偶发延迟超过 10s 苏 苏晚 消息推",
+    "h1": [
+      "缺陷管理"
+    ],
+    "comboboxes": 3,
+    "mainSelects": 2,
+    "mainRows": 0
+  },
+  "AI 助手": {
+    "url": "https://utilize-subscription-paper-fare.trycloudflare.com/assistant",
+    "mainCount": 1,
+    "mainLen": 944,
+    "head": "AI 测试助手 对话式完成测试设计与分析 TestPilot Agent ● 在线 · gpt-4o TRADE 能做什么 覆盖测试全流程 用例设计 按需求生成主流程、边界、并发、权限、异常用例 缺陷分析 自动定级、定位根因并给出修复建议 质量总结 汇总执行结果，评估发布风险并输出结论 脚本生成 将用例转换为可执行的自",
+    "h1": [
+      "AI 助手"
+    ],
+    "comboboxes": 1,
+    "mainSelects": 0,
+    "mainRows": 0
+  },
+  "面试题库": {
+    "url": "https://utilize-subscription-paper-fare.trycloudflare.com/interview",
+    "mainCount": 1,
+    "mainLen": 781,
+    "head": "题库总数 135 简单 4 中等 129 困难 2 全部分类 AI 测试基础 大模型测试 测试自动化 缺陷分析 测试数据 Agent 测试 RAG 测试 工具与 MCP LLM 评测 AI 编程 Agent 框架 全部难度 简单 中等 困难 筛选 IV-001 简单 AI 测试基础 什么是 AI 驱动的测试？与传统自动",
+    "h1": [
+      "AI 测试面试题"
+    ],
+    "comboboxes": 3,
+    "mainSelects": 2,
+    "mainRows": 0
+  },
+  "知识库": {
+    "url": "https://utilize-subscription-paper-fare.trycloudflare.com/knowledge",
+    "mainCount": 1,
+    "mainLen": 664,
+    "head": "全部条目 5 链接收藏 2 知识文档 3 自定义文本 0 新增知识 链接收藏 自定义文本 上传文档 保存 全部类型 链接 文档 文本 导入面试题库 刷新 文档 TestPilot问题解答 KB-005 · 2026-10-18 23:09 6.1 KB TestPilot_QA_Tech_Analysis.md（6.1",
+    "h1": [
+      "TestPilot"
+    ],
+    "comboboxes": 2,
+    "mainSelects": 1,
+    "mainRows": 0
+  },
+  "设置": {
+    "url": "https://utilize-subscription-paper-fare.trycloudflare.com/settings",
+    "mainCount": 1,
+    "mainLen": 839,
+    "head": "启用 Agent 3 共 4 个 模型服务 3 已连接 累计调用 1880 AI Agent 调用次数 Token 消耗 40.8k 提示词累计 AI Agent 配置 控制各环节 Agent 的启用与模型 AGENT 类型 模型 温度 调用次数 启用 用例生成 Agent agent-1 用例生成 gpt-4o 0.",
+    "h1": [
+      "设置"
+    ],
+    "comboboxes": 4,
+    "mainSelects": 3,
+    "mainRows": 4
+  }
+}
